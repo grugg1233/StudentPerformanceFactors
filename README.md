@@ -2,6 +2,7 @@
 Train and optimize 3 AI models to make predictions on student exam scores based on several performance factors using open source kaggle dataset.  
 
 Set out to uncover which behavioral and socio-demographic characteristics most strongly influence students’ exam outcomes. Leveraging the publicly available Student Performance & Behavior Dataset from Kaggle, which encompasses a range of features—from parental education level and teacher quality to time spent studying and distance from home—we focused on explaining variance in the Exam_Score target variable ​. Our central research questions were: Which factors exhibit the strongest linear and non-linear relationships with exam performance? And how do different modeling approaches compare in predictive accuracy and robustness?
+
 Linear Regression is fastest and most transparent but breaks badly in the presence of outliers.
 
 
